@@ -1,103 +1,60 @@
+# Nuvem de Computadores
+<!--Olá a todos! Bom me chamo Gustavo e essa é minha apresentação sobre a introdução à computação em nuvem. Vou explicar o conceito da computação em nuvem, suas características essenciais e como isso tem revolucionado a forma como utilizamos recursos de computação.-->
 
-# Nuvem de computadores
+A computação em nuvem, também conhecida como cloud computing, refere-se à disponibilidade sob demanda de recursos de sistema de computador, como armazenamento de dados e capacidade de processamento, sem a necessidade de gerenciamento ativo direto por parte do usuário. É um modelo de computação que permite o acesso a recursos compartilhados por meio da internet.
 
-Computação em nuvem (cloud computing) é um
-termo coloquial para a disponibilidade sob
-demanda de recursos do sistema de
-computador, especialmente armazenamento de
-dados e capacidade de computação, sem o
-gerenciamento ativo direto do utilizador. O
-termo geralmente é usado para descrever
-centros de dados disponíveis para muitos
-utilizadores pela internet. Nuvens em grande
-escala, predominantes hoje em dia, geralmente
-têm funções distribuídas em vários locais dos
-servidores centrais.
+<!--A computação em nuvem refere-se à disponibilidade sob demanda de recursos de sistema de computador, como armazenamento de dados e capacidade de processamento, sem a necessidade de gerenciamento ativo direto. É como ter acesso a um sistema poderoso sem precisar lidar com a infraestrutura por trás dele.-->
 
-<!-- Então o que é nuvem? Nuvem é um "sistema" que funciona fora da sua maquina atual alocado em servidores especificos que você tem acesso sem ter um grande uso da capacidade da sua maquina, geralmente é muito usada para guardar arquivos, pastas entre outros tipo de destinos. o armazenamento dos dados são feitos de modo que podem ser acessados de qualquer lugar do mundo, a qualquer hora. -->
+<!--E, aqui temos as cinco características essenciais da computação em nuvem, conforme definido pelo NIST. que por curiosidade o NIST é uma agência do departamento de Comérico dos Estados Unidos que além de estabelecer as características essenciais da computação em nuvem, o NIST também desenvolve diretrizes e frameworks de seguranças cibernética para ajudar as empresas a protegerem seus dados na nuvem.-->
+### Características da Computação em Nuvem
 
->*Empresas como o Google, Amazon, Microsoft,
->Oracle e IBM foram as primeiras a iniciar uma
->grande ofensiva nessa nuvem de informação.*
+De acordo com o Instituto Nacional de Padrões e Tecnologia (NIST), há cinco características essenciais da computação em nuvem:
+
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png" width="85" height="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png" width="85" height="70">
-<img src="https://www.microsoft.com/pt-br/microsoft-365/blog/wp-content/uploads/sites/51/2022/06/cropped-microsoft_logo_element.png" width="85" height="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png" width="85" height="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png" widht="85" height="70">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-bwcJ-2RU6-ovWWvnujtqbTkaCvqNkLMz4A&usqp=CAU" width="350" height="100" alt="Logo da NIST">
 </p>
 
-O primeiro serviço na internet a oferecer um
-ambiente operacional para os usuários foi
-criado por um estudante sueco chamado Fredrik Malmer, que era antigamente disponibilizado 
-pelo o endereço de **WEBOS.**
+1. **Autoatendimento sob demanda:** Os usuários podem provisionar e configurar recursos de forma automática, sem a necessidade de intervenção humana direta por parte do provedor de serviços em nuvem. Isso permite que os usuários tenham controle e agilidade na utilização dos recursos.
+<!--A primeira característica é o autoatendimento sob demanda. Isso significa que os usuários podem provisionar e configurar recursos automaticamente, sem a necessidade de intervenção humana direta do provedor de serviços em nuvem. É como ter um controle total sobre os recursos sem precisar entrar em contato com terceiros.-->
 
+2. **Amplo acesso à rede:** Os recursos em nuvem estão disponíveis e podem ser acessados por meio da internet utilizando mecanismos padronizados. Isso permite que os usuários acessem os serviços em nuvem de qualquer lugar e a qualquer momento, utilizando uma variedade de dispositivos.
+<!--A próxima característica é o amplo acesso à rede. Os recursos em nuvem estão disponíveis através da internet e podem ser acessados por meio de mecanismos padronizados, como telefones celulares, tablets, notebooks e estações de trabalho. Isso oferece a flexibilidade de acessar seus serviços em nuvem de maneira conveniente e instantânea, esteja você em casa, no escritório ou em qualquer lugar do mundo.-->
 
-Segundo o NIST, Instituto Nacional de Padrões e
-Tecnologia, as cinco características essenciais
-da computação em nuvem são:
+3. **Pool de recursos:** Os recursos computacionais em nuvem, como armazenamento, processamento e redes, são compartilhados e alocados dinamicamente entre os usuários. Essa abordagem de compartilhamento de recursos permite uma utilização mais eficiente e flexível, atendendo às necessidades individuais dos usuários.
+<!--Em seguida, temos o pool de recursos. Isso significa que os recursos computacionais do provedor são agrupados e compartilhados entre vários usuários, e veja bem, apenas os recursos computacionais e não dados. Esses recursos são atribuídos dinamicamente de acordo com a demanda de cada usuário, o que permite uma utilização mais eficiente e flexível.-->
 
-- **Autoatendimento sob demanda -** Um consumidor pode utilizar unilateralmente
-recursos de computação, como tempo de servidor e armazenamento de rede, conforme
-necessário, automaticamente, sem exigir interação humana com cada provedor de 
-serviços;
-<!-- que é você poder ter controle total sem precisar está tendo um contato com um terceiro -->
+4. **Elasticidade rápida:** Os recursos em nuvem podem ser escalados automaticamente para cima ou para baixo, de acordo com a demanda dos usuários. Isso permite uma rápida adaptação às variações de carga de trabalho, garantindo que os recursos estejam disponíveis quando necessários e evitando desperdícios quando não utilizados.
+<!--Outra característica importante é a elasticidade rápida. Isso significa que os recursos em nuvem podem se ajustar automaticamente de acordo com a demanda. É como se você tivesse a capacidade de expandir ou reduzir seus recursos de computação de forma rápida e fácil, de acordo com a quantidade de trabalho que precisa ser feita. É como se a nuvem fosse flexível e se adaptasse instantaneamente às necessidades do momento.-->
 
-- **Amplo acesso à rede -** Os recursos estão
-disponíveis na rede e são acedidos por meio
-de mecanismos padrão que promovem o
-uso por plataformas heterogêneas (por
-exemplo, telefones celulares, tablets,
-notebooks e estações de trabalho);
-<!-- o Amplo acesso à rede é nada mais do que conseguir acessar o sistema de qualquer meio de comunicação seja celular, tablets e entre outros -->
+5. **Serviço medido:** Os serviços em nuvem são monitorados e medidos para fornecer informações detalhadas sobre a utilização dos recursos. Isso inclui métricas como consumo de armazenamento, uso de processamento e largura de banda de rede.
+<!--Por fim, temos o serviço medido. Os sistemas em nuvem monitoram e otimizam automaticamente o uso dos recursos, fornecendo informações detalhadas sobre a utilização. Isso permite um controle mais eficiente e transparente para os provedores e usuários dos serviços em nuvem.-->
 
-- **Pool de recursos -** Os recursos de
-computação do provedor são agrupados
-para atender a vários consumidores usando
-um modelo de multilocação, com diferentes
-recursos físicos e virtuais atribuídos
-dinamicamente de acordo com a demanda
-do consumidor;
+---
+<!--A computação em nuvem tem sido impulsionada por empresas líderes no mercado. Algumas das primeiras empresas a adotarem essa abordagem foram o Google, Amazon, Microsoft, Oracle e IBM. Elas fornecem uma ampla gama de serviços e soluções em nuvem para atender às necessidades das empresas e usuários finais.-->
+>Empresas como o Google, Amazon, Microsoft, Oracle e IBM foram as primeiras a iniciar uma grande ofensiva na nuvem de informação. Essas empresas são líderes no mercado de computação em nuvem, fornecendo uma ampla gama de serviços e soluções para empresas e usuários finais. Com suas plataformas robustas e infraestruturas escaláveis, elas têm impulsionado a adoção da computação em nuvem em todo o mundo.
 
-- **Elasticidade rápida -** Os recursos podem
-ser provisionados e liberados elasticamente,
-em alguns casos automaticamente, para
-escalar rapidamente para fora e para dentro
-de acordo com a demanda. Para o
-consumidor, os recursos disponíveis para
-utilização muitas vezes parecem ilimitados e
-podem ser apropriados em qualquer
-quantidade e a qualquer momento;
+Abaixo estão os logos dessas empresas, que se tornaram símbolos reconhecidos da computação em nuvem:
 
-- **Serviço medido -** Os sistemas em nuvem
-controlam e otimizam automaticamente o
-uso de recursos aproveitando um recurso
-de medição em algum nível de abstração
-apropriado ao tipo de serviço (por exemplo,
-armazenamento, processamento, largura de
-banda e contas de utilizador ativas). O uso
-de recursos pode ser monitorado,
-controlado e relatado, fornecendo
-transparência tanto para o provedor quanto
-para o consumidor do serviço utilizado.
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png" width="120" height="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png" width="120" height="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.microsoft.com/pt-br/microsoft-365/blog/wp-content/uploads/sites/51/2022/06/cropped-microsoft_logo_element.png" width="120" height="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png" width="120" height="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png" width="120" height="100">
+</p>
 
-<!--## Existem 3 modelos de implantação da nuvem:
+## Conclusão
 
-- **Nuvem privada -** As nuvens privadas são aquelas construídas
-exclusivamente para um único utilizador (uma
-empresa, por exemplo). Diferentemente de um
-data center privado virtual, a infraestrutura
-utilizada pertence ao utilizador, e, portanto, ele
-possui total controle sobre como as aplicações
-são implementadas na nuvem. Uma nuvem
-privada é, em geral, construída sobre um data
-center privado.
+1. [The NIST definition of cloud computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) - Peter Mell, Timothy Grance
 
-- **Nuvem pública -** Uma nuvem é chamada de "nuvem pública"
-quando os serviços são disponibilizados em
-uma rede aberta para uso público.
+2. [A view of cloud computing](https://dl.acm.org/doi/pdf/10.1145/1721654.1721672) - Michael Armbrust et al.
 
-- **Nuvem híbrida -** Nas nuvens híbridas temos uma composição
-dos serviços disponibilizados por nuvens
-públicas, privadas e de terceiros com
-orquestração entre essas plataformas.-->
+3. [A break in the clouds: towards a cloud definition](http://ccr.sigcomm.org/online/files/p50-v39n1l-vaqueroA.pdf) - Luis M. Vaquero et al.
+
+4. [Cloud computing: principles and paradigms](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9780470940105.fmatter) - Rajkumar Buyya, James Broberg, and Andrzej Goscinski
+
+<img src="https://imgbox.com/zFUQZtpr" alt="Meu Discord">
