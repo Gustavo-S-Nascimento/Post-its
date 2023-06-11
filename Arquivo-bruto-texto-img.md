@@ -57,4 +57,5 @@ Abaixo estão os logos dessas empresas, que se tornaram símbolos reconhecidos d
 
 4. [Cloud computing: principles and paradigms](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9780470940105.fmatter) - Rajkumar Buyya, James Broberg, and Andrzej Goscinski
 
-<img src="https://imgbox.com/zFUQZtpr" alt="Meu Discord">
+<img src="https://github.com/Gustavo-S-Nascimento/Post-its/blob/Apresentação-de-fundamentos/Screenshot_2.jpg" alt="Discord">
+<figcaption>Meu Discord</figcaption>
