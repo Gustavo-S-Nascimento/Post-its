@@ -8,3 +8,11 @@
 
 
 Viewport : https://viewportsizer.com/what-is-my-screen-size/
+
+## Códigos CMD
+>
+> *Subindo arquivo local/online* (npx http-server .)
+>
+> *Abrindo o VSCode na pasta atual* (code .)
+>
+> *Indo para o diretorio da página* (cd C:/Diretorio da pagina...)
