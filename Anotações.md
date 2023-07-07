@@ -6,3 +6,5 @@
 >
 > *Background aleatorio* `(https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/5d215856-1b65-4356-bd7d-55022772657f)`
 
+
+Viewport : https://viewportsizer.com/what-is-my-screen-size/
