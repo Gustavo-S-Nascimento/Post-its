@@ -2,7 +2,7 @@
 
 Repositório criado apenas para ser feita o salvamento de tags, links e entre outras coisas para um facil acesso, fique avontade para usar ao bel-prazer. 
 
-As branch abertas e fechadas são sobre assuntos especificos, se tiver algo que possa lhe ajudar, vá em frente e pegue!! 😁
+As branches abertas e fechadas são sobre assuntos especificos, se tiver algo que possa lhe ajudar, vá em frente e pegue!! 😁
 
 Um Abraço do **Pascal**
 
