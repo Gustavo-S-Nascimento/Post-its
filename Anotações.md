@@ -9,6 +9,8 @@
 > *Github Pages* `(https://blogs.sap.com/wp-content/uploads/2014/10/github_pages_572846.jpg)`
 >
 > *Pull Request* `(https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/8f9d5b64-6618-47f3-9d79-399120910fc2)`
+>
+> *icon* `(https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/5b83153f-d616-493b-920a-adadb61d4596)`
 
 
 Viewport : https://viewportsizer.com/what-is-my-screen-size/
