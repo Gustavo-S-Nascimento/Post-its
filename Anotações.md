@@ -11,6 +11,8 @@
 > *Pull Request* `(https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/8f9d5b64-6618-47f3-9d79-399120910fc2)`
 >
 > *icon* `(https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/5b83153f-d616-493b-920a-adadb61d4596)`
+>
+> *logo* `(https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/37b0b175-c437-47c3-a458-fd3129cae27d)`
 
 
 Viewport : https://viewportsizer.com/what-is-my-screen-size/
