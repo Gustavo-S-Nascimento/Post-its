@@ -19,7 +19,7 @@ Viewport : https://viewportsizer.com/what-is-my-screen-size/
 
 Gist Arquivo secreto : https://gist.github.com/Gustavo-S-Nascimento/b1096b9a8bb10738fd783650abd6e1ce
 
-Validador de HTML : https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML
+Validador de HTML : https://validator.w3.org/
 
 ## Códigos CMD
 >
