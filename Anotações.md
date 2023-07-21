@@ -32,3 +32,7 @@ Validador de HTML : https://validator.w3.org/
 
 ### Extenções VSCode
 > code spell check
+
+
+### Pessoas para ler sobre
+> Isac Asimov
