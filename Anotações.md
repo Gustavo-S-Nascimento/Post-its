@@ -28,3 +28,7 @@ Validador de HTML : https://validator.w3.org/
 > *Abrindo o VSCode na pasta atual* (code .)
 >
 > *Indo para o diretorio da página* (cd C:/Diretorio da pagina...)
+
+
+### Extenções VSCode
+> code spell check
