@@ -32,6 +32,30 @@ Similar ao Github codespace : gitpod.io/#/url-pagina
 > *Abrindo o VSCode na pasta atual* (code .)
 >
 > *Indo para o diretorio da página* (cd C:/Diretorio da pagina...)
+>
+> *Voltando diretorios* °1 (cd ..) - °2 (cd ../..) 
+>
+> *Escrevendo algo na tela* (echo "o que deseja")
+>
+> *Criando Pastas* (mkdir "nome_da_pasta")
+
+## Códigos VsCode
+>
+> *Descobrindo o diretorio da pasta* (pwd) - Print Work Directory
+>
+> *Descobrindo todo conteudo da pasta atual* (ls) - List
+>
+> *Visualizando arquivo* (more "filename")
+>
+> *Limpando terminal* (Clear)
+>
+> *Criando Arquivos* (touch "nome_do_arquivo.exemplo")
+>
+> *Copiando arquivos* (cp "arquivo" "destino")
+>
+> *Removendo arquivos* (rm "arquivo")
+>
+> *Renomeando arquivos* (mv "nome_antigo" "novo_nome")
 
 
 ### Extenções VSCode
