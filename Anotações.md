@@ -25,6 +25,8 @@ Transformando um PC em nuvem : https://devpod.sh/
 
 Similar ao Github codespace : gitpod.io/#/url-pagina
 
+Inteligencia artificial para programadores : phind.com
+
 ## Códigos CMD
 >
 > *Subindo arquivo local/online* (npx http-server .)
