@@ -62,6 +62,8 @@ Inteligencia artificial para programadores : phind.com
 
 ### Extenções VSCode
 > code spell check
+>
+> CodeRoad
 
 
 ### Pessoas para ler sobre
