@@ -73,3 +73,5 @@ Criando um "Bloco de notas online" para servir de consulta de comandos, códigos
 
 ## Pessoas para ler sobre
 > Isac Asimov - Escritor
+>
+> Friedrich Nietzsche - Filósofo
