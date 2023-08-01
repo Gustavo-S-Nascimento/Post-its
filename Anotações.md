@@ -1,4 +1,8 @@
-# Links de imagens usadas:
+# Notações para referencia
+
+Criando um "Bloco de notas online" para servir de consulta de comandos, códigos, links entre outras coisas.
+
+## Links de imagens usadas:
 >
 > *Discord print*  `(https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/d1fa3694-fff8-4b51-b428-591751d06605)`
 >
@@ -14,6 +18,7 @@
 >
 > *logo* `(https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/37b0b175-c437-47c3-a458-fd3129cae27d)`
 
+## Sites Utilitarios
 
 Viewport : https://viewportsizer.com/what-is-my-screen-size/
 
@@ -23,9 +28,9 @@ Validador de HTML : https://validator.w3.org/
 
 Transformando um PC em nuvem : https://devpod.sh/
 
-Similar ao Github codespace : gitpod.io/#/url-pagina
+Similar ao Github codespace : https://gitpod.io/#/url-pagina
 
-Inteligencia artificial para programadores : phind.com
+Inteligencia artificial para programadores : https://phind.com
 
 ## Códigos CMD
 >
@@ -66,5 +71,5 @@ Inteligencia artificial para programadores : phind.com
 > CodeRoad
 
 
-### Pessoas para ler sobre
+## Pessoas para ler sobre
 > Isac Asimov
