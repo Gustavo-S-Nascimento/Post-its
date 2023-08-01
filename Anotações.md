@@ -20,17 +20,17 @@ Criando um "Bloco de notas online" para servir de consulta de comandos, códigos
 
 ## Sites Utilitarios
 
-Viewport : https://viewportsizer.com/what-is-my-screen-size/
-
-Gist Arquivo secreto : https://gist.github.com/Gustavo-S-Nascimento/b1096b9a8bb10738fd783650abd6e1ce
-
-Validador de HTML : https://validator.w3.org/
-
-Transformando um PC em nuvem : https://devpod.sh/
-
-Similar ao Github codespace : https://gitpod.io/#/url-pagina
-
-Inteligencia artificial para programadores : https://phind.com
+> *Viewport* : https://viewportsizer.com/what-is-my-screen-size/
+>
+> *Gist Arquivo secreto* : https://gist.github.com/Gustavo-S-Nascimento/b1096b9a8bb10738fd783650abd6e1ce
+>
+> *Validador de HTML* : https://validator.w3.org/
+>
+> *Transformando um PC em nuvem* : https://devpod.sh/
+>
+> *Similar ao Github codespace* : https://gitpod.io/#/url-pagina
+>
+> *Inteligencia artificial para programadores* : https://phind.com
 
 ## Códigos CMD
 >
@@ -66,10 +66,10 @@ Inteligencia artificial para programadores : https://phind.com
 
 
 ### Extenções VSCode
-> code spell check
+> *Verificador de ortografia* (code spell check)
 >
-> CodeRoad
+> *Tutoriais pelo VSCode* (CodeRoad)
 
 
 ## Pessoas para ler sobre
-> Isac Asimov
+> Isac Asimov - Escritor
