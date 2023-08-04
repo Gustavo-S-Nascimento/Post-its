@@ -45,6 +45,8 @@ Criando um "Bloco de notas online" para servir de consulta de comandos, códigos
 > *Escrevendo algo na tela* (echo "o que deseja")
 >
 > *Criando Pastas* (mkdir "nome_da_pasta")
+>
+> *lista as database* (\l)
 
 ## Códigos VsCode
 >
