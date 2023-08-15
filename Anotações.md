@@ -83,4 +83,29 @@ Criando um "Bloco de notas online" para servir de consulta de comandos, códigos
 > window.confirm('') - Janela de Confirmação
 > 
 > window.prompt('') - Janela para entrada de dados
+>
+> var nome_da_variavel = numero/'string'/numero-real
+>
+> Number.parseInt(n) / parseInt(n) - Converte string para numero inteiro (1,2,3,4...)
+>
+> Number.parseFloat(n) / parseFloat(n) - Converte string para numero real (1.0,1.1,1.2,1.3...)
+>
+> Number - Transfere string para numero inteiro ou real decidindo pelo o JS
+>
+> String(n) - Converte numero para String
+>
+> ``template string ${var}` - Chamando variaveis
+>
+> document.write(´a´) - escreve no documento
+>
+> ${var.length} - conta o tanto de letras tem a variaveis
+>
+> ${var.toUpperCase()} - Bota a variavel em Maiúsculo
+>
+> ${var.toLowerCase()} - Bota a variavel em Minúsculo
+>
+> var.toFixed(quantidade) - aloca a casa do numero
 > 
+> var.toFixed(quantidade).replace('.', ',') - Troca o ponto do numero real para virgula
+>
+> var.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) - Troca numeros para valores monetarios EXEMPLO: ( 1450 - R$ 1,450.00)
