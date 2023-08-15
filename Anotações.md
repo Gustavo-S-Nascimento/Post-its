@@ -67,7 +67,7 @@ Criando um "Bloco de notas online" para servir de consulta de comandos, códigos
 > *Renomeando arquivos* (mv "nome_antigo" "novo_nome")
 
 
-### Extenções VSCode
+## Extenções VSCode
 > *Verificador de ortografia* (code spell check)
 >
 > *Tutoriais pelo VSCode* (CodeRoad)
@@ -75,3 +75,12 @@ Criando um "Bloco de notas online" para servir de consulta de comandos, códigos
 
 ## Pessoas para ler sobre
 > Isac Asimov - Escritor
+
+
+## Codigos JS
+> window.alert('') - Janela de alerta
+> 
+> window.confirm('') - Janela de Confirmação
+> 
+> window.prompt('') - Janela para entrada de dados
+> 
