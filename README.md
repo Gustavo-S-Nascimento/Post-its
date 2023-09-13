@@ -7,6 +7,9 @@ Um Abraço do **Pascal**
 ![High five](https://media0.giphy.com/media/3oKIPbOaTdyWc8iUWA/giphy.gif?cid=ecf05e47rs0ofj6to2pu57na5agzkmscrtcv0h3zwhypidkq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Prints
+
+![image](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/b94252a8-8bc1-477d-927d-effb796ed992)
+
 ![image](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/0f2c7ef0-1454-462f-850a-60164bc50c0a)
 <br>
 ![image](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/5e55fee2-911c-4952-84ab-5c63e7698d30)
